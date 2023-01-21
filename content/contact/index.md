@@ -3,13 +3,13 @@ title: "Contact"
 ---
 {{<rawhtml>}}
 
-<section class="contact">
+<section>
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
         <div class="contact-form">
           <h2>Get in Touch</h2>
-          <form class="row" id="contact-form" method="POST" action="https://fabform.io/f/{{ .Site.Params.fabformURL }}">
+          <form class="row" id="fs-frm" method="POST" action="https://formspree.io/{{ .Site.Params.fabspreeURL }}">
             <div class="col-md-6">
               <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
             </div>
@@ -27,8 +27,8 @@ title: "Contact"
           </form>
         </div>
       </div>
-      <div class="col-md-4 box-shadow">
-        <img src="/images/katie-drink.jpg" style="max-height: 400px; display: block;">
+      <div class="col mt-4 rounded">
+        <img src="/images/katie-drink.jpg" class="img-fluid" alt="Katie Headshot">
       </div>
     </div>
   </div>

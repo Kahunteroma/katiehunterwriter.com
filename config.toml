@@ -43,7 +43,7 @@ theme = "coHubloggeb"
   #trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below
-  fabformURL  = "moqrvnjo"
+  formspreeURL  = "mbjelwrz"
   #googleMapAPI = ""
 
 [taxonomies]
