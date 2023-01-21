@@ -30,8 +30,6 @@ title: "Writing"
 
 {{< reference title="A Complete Guide To The Da Nang Train Station" url="https://hiddenhoian.com/travel/guide-da-nang-train-station/" source="Hidden Hoi An">}}
 
-## San Francisco Unified School District
-
 {{< reference title="A Back to School Guide for Broke SF Educators (and How Parents Can Help!)" url="https://brokeassstuart.com/2017/08/25/back-school-guide-broke-sf-educators-parents-can-help/" source="Broke-ass Stuart">}}
 
 {{< reference title="Why San Francisco is Losing Its Teachers" url="https://brokeassstuart.com/2016/10/11/102066/" source="Broke-ass Stuart">}}
