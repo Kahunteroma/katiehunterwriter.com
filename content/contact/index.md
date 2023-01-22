@@ -9,7 +9,7 @@ title: "Contact"
       <div class="col-lg-6">
         <div class="contact-form">
           <h2>Get in Touch</h2>
-          <form class="row" id="fs-frm" method="POST" action="https://formspree.io/{{ .Site.Params.fabspreeURL }}">
+          <form class="row" id="fs-frm" method="POST" action="https://formspree.io/{{ .Site.Params.formspreeURL }}">
             <div class="col-md-6">
               <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
             </div>
