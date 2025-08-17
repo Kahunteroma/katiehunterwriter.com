@@ -1,6 +1,6 @@
 baseURL = "https://www.katiehunterwriter.com/"
 languageCode = "en-us"
-paginate = 6
+pagination.pagerSize = 6
 summarylength = 10
 title = "Katie Hunter"
 theme = "coHubloggeb"
