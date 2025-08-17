@@ -4,6 +4,8 @@ title: "Writing"
 
 ## Literary
 
+{{< reference title="Author Interview with Lynn Steger Strong" url="https://writeordiemag.com/author-interviews/interview-with-lynn-steger-strong" source="Write or Die Mag">}}
+
 {{< reference title="The Rules of Karaoke" url="https://herstryblg.com/theme/2022/9/30/the-rules-of-karaoke" source="HerStry">}}
 
 {{< reference title="Growing Season" url="https://www.janusliterary.com/2022/01/03/katie-hunter-growing-season/" source="Janus Literary Review">}}
